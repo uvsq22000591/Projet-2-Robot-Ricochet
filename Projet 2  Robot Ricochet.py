@@ -28,6 +28,8 @@ racine.title("Jeu des robots")
 # création des widgets
 canvas = tk.Canvas(racine, width= 640, height= 640, bg= "black")
 canvas.grid()
+print("ça fonctionne !")
+
 racine.mainloop()
 
-print("hello")
+
