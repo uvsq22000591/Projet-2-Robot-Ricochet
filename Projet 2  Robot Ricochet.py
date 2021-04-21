@@ -31,5 +31,3 @@ canvas.grid()
 print("ça fonctionne !")
 
 racine.mainloop()
-
-
