@@ -11,11 +11,14 @@
 
 # lien du github:https://github.com/uvsq22010110/Projet-2-Robot-Ricochet.git
 
+
+###################################
 # Comment le programme fonctionne :
 
 # import des modules
 
 import tkinter as tk
+import random as rd
 
 # constantes
 
